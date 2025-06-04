@@ -116,8 +116,8 @@ def run():
             <div style="background-color: #1B4332; max-width: 170px; height: 40px; 
             border-radius: 20px; box-shadow: 1px 1px 6px rgba(0.3,0.3,0.3,0.3); 
             display: flex; align-items: center; justify-content: center; 
-            text-align: center; margin-bottom: 3px; margin-left: 13px; padding-top: 10px; padding-left: 25px;">
-                <h3 style="margin-bottom:0px; font-family: 'Arial', serif; white-space: nowrap; color:white; font-weight :1000; font-size: 12px">TOTAL TEAMS</h3>
+            text-align: center; margin-bottom: 3px; margin-left: 13px; padding-top: 4px; padding-left: 25px;">
+                <h3 style="margin-bottom:0px; font-family: 'Arial', serif; white-space: nowrap; color:white; font-weight :1000; font-size: 11px">TOTAL TEAMS</h3>
                 
             </div>
             """,
